@@ -1,16 +1,15 @@
 ### Hi there 👋
+### Me contacter 
+- [x] [Mon serveur Discord ](https://discord.gg/sJeW9re)
+- [x] [Mon Shop ](https://aetherium.tebex.io/)
+<p>par Mail : proroyal68470@gmail.com</p>
 
-<!--
-**royaljacques/royaljacques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####Royaljacques
+![My Stats](https://github-readme-stats.vercel.app/api?username=royaljacques&show_icons=true&count_private=true&hide_title=true)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on pocketmine plugin
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on LaTeamDevFr
+- 🤔 I’m looking for help with Plugin pocketmine
+
