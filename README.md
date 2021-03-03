@@ -3,10 +3,11 @@
 - [x] [Mon serveur Discord ](https://discord.gg/sJeW9re)
 - [x] [Mon Shop ](https://aetherium.tebex.io/)
 <p>par Mail : proroyal68470@gmail.com</p>
-- 🔭 I’m currently working on pocketmine plugin
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on LaTeamDevFr
-- 🤔 I’m looking for help with Plugin pocketmine
+
+<br>- 🔭 I’m currently working on pocketmine plugin
+<br>- 🌱 I’m currently learning ...
+<br>- 👯 I’m looking to collaborate on LaTeamDevFr
+<br>- 🤔 I’m looking for help with Plugin pocketmine
 
 # :star: My Stats
 <p align="center"><a href="#">
