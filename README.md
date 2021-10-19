@@ -11,7 +11,7 @@
 
 # :star: My Stats
 <p align="center"><a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=royaljacques&show_icons=true&count_private=true&hide_title=true" />
+  <img src="  https://github-readme-stats.vercel.app/api?username=royaljacques&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vision-friendly-dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=royaljacques&langs_count=4&count_private=true&theme=nord" />
 </a></p>
 <p align="center"><a href="#">
