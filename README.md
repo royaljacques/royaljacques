@@ -33,8 +33,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=royaljacques&margin-w=28&margin-h=15&theme=radical&hide_border=true">
 </p>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=royaljacques&&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j">
-    [![wakatime](https://wakatime.com/badge/user/704464d1-c41c-4bad-b901-a672e151c2e1.svg)](https://wakatime.com/@704464d1-c41c-4bad-b901-a672e151c2e1)
-
+<p>
+[![wakatime](https://wakatime.com/badge/user/704464d1-c41c-4bad-b901-a672e151c2e1.svg)](https://wakatime.com/@704464d1-c41c-4bad-b901-a672e151c2e1)
+</p>
 <p align="center"><a href="#">
   <img src="https://img.shields.io/badge/-PHP-2e3440?logoColor=81a1c1&logo=PHP" />
   <img src="https://img.shields.io/badge/-SQL-2e3440?logoColor=81a1c1&logo=MySQL" />
