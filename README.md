@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=royaljacques"/>
 ### Me contacter
 - [x] [Mon serveur Discord ](https://discord.gg/sJeW9re)
 - [x] [Mon Shop ](https://aetherium.tebex.io/)
