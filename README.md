@@ -2,9 +2,10 @@
 <img src="https://komarev.com/ghpvc/?username=royaljacques"/>
 ### Me contacter
 <p>
-[Mon serveur Discord ](https://discord.gg/sJeW9re, "serveur")
 <br>
-[Mon Shop ](https://aetherium.tebex.io/, "serveur")
+[Mon serveur Discord ](https://discord.gg/sJeW9re)
+<br>
+[Mon Shop ](https://aetherium.tebex.io/)
 </p>
 <p>par Mail : proroyal68470@gmail.com</p>
 
