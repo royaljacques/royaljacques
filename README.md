@@ -3,6 +3,7 @@
 ### Me contacter
 <p>
     <br>
+    server
 [Mon serveur Discord](https://discord.gg/AzJ7Uz7wkx)
 <br>
 [Mon Shop ](https://discord.gg/AzJ7Uz7wkx) 
