@@ -4,10 +4,10 @@
 <p>
     <br>
     
-
-[Mon serveur Discord]( https://discord.gg/sJeW9re )
+https://discord.gg/AzJ7Uz7wkx
+[Mon serveur Discord](https://discord.gg/AzJ7Uz7wkx)
 <br>
-[Mon Shop ]( https://aetherium.tebex.io/ ) 
+[Mon Shop ](https://discord.gg/AzJ7Uz7wkx) 
 </p>
 <p>par Mail : proroyal68470@gmail.com</p>
 
