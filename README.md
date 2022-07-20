@@ -1,8 +1,11 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=royaljacques"/>
 ### Me contacter
--[Mon serveur Discord ](https://discord.gg/sJeW9re)
--[Mon Shop ](https://aetherium.tebex.io/)
+<p>
+[Mon serveur Discord ](https://discord.gg/sJeW9re, "serveur")
+<br>
+[Mon Shop ](https://aetherium.tebex.io/, "serveur")
+</p>
 <p>par Mail : proroyal68470@gmail.com</p>
 
 <br>- 🔭 I’m currently working on pocketmine plugin
