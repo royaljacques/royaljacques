@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=royaljacques"/>
+[![](https://visitcount.itsvg.in/api?id=royaljacquesytb&label=Profile%20Views&color=4&icon=7&pretty=true)](https://visitcount.itsvg.in)
 ### Me contacter
 <p>
 
@@ -38,7 +39,7 @@
 <p align="center"><a href="#">
   <img src="https://github-profile-trophy.vercel.app/?username=royaljacques&margin-w=28&margin-h=15&theme=radical&hide_border=true">
 </p>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=royaljacques&&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j">
+<img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=royaljacques&&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j">
 
 <p align="center"><a href="#">
   <img src="https://img.shields.io/badge/-PHP-2e3440?logoColor=81a1c1&logo=PHP" />
