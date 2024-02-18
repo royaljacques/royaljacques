@@ -41,11 +41,11 @@
 | ------------- | ------------- |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center"><a href="#">
+<center><p align="center"><a href="#">
   <img src="https://github-profile-trophy.vercel.app/?username=royaljacques&margin-w=28&margin-h=15&theme=radical&hide_border=true">
 </p>
 <img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=royaljacques&&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j">
+</center>
 
 <p align="center"><a href="#">
   <img src="https://img.shields.io/badge/-PHP-2e3440?logoColor=81a1c1&logo=PHP" />
